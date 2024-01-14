@@ -1,2 +1,2 @@
 # my_site_frontend
-apt (yum) nginx, apache, httpd
+apt (yum) install nginx, apache, httpd
